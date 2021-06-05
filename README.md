@@ -1,7 +1,7 @@
 # HTML(基本編)
 
 <br>
-<img src="logo.png" width="300px">
+<img src="logo.png" width="100px">
 <br>
 
 ## Webページを作るために必要なもの
