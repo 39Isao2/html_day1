@@ -325,7 +325,7 @@ https://gist.github.com/55Kaerukun/c2450a308aab85fd1a425da8c028ed64
 半角英数字で名前をつけましょう。<br>
 
 ```
-<img src="images/sora.jpg" alt="画像の内容" width="横幅">
+<img src="images/hachi.jpg" alt="画像の内容" width="横幅">
 
 絶対パス、相対パス 階層注意
 ※ imgタグもpタグで囲む（文章のながれ） figure(装飾など画像のみ)
@@ -337,7 +337,7 @@ https://gist.github.com/55Kaerukun/c2450a308aab85fd1a425da8c028ed64
 ```
 
 <figure>
-    <img src="images/sora.jpg" alt="画像の内容" width="横幅">
+    <img src="images/hachi.jpg" alt="画像の内容" width="横幅">
     <figurecaption>画像の説明や表の説明</figurecaption>
 </figure>
 
