@@ -237,7 +237,7 @@ langのところをjaにしましょう（enだと英語に翻訳しましょう
 半角英数字で名前をつけましょう。<br>
 
 ```
-<img src="images/hachi.jpg" alt="画像の内容" width="横幅">
+<img src="images/main_image.jpg" alt="画像の内容" width="横幅">
 
 絶対パス、相対パス 階層注意
 ※ imgタグもpタグで囲む（文章のながれ） figure(装飾など画像のみ)
