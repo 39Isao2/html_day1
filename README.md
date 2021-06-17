@@ -245,8 +245,10 @@ langのところをjaにしましょう（enだと英語に翻訳しましょう
 
 ```
 
-#### figureタグ（画像や表を囲む)、figurecaptionタグ（画像や図の説明）
-```
+
+
+<!-- #### figureタグ（画像や表を囲む)、figurecaptionタグ（画像や図の説明）
+
 
 <figure>
     <img src="images/hachi.jpg" alt="画像の内容" width="横幅">
@@ -255,7 +257,7 @@ langのところをjaにしましょう（enだと英語に翻訳しましょう
 
 ※  figurecaptionタグで説明
 
-```
+-->
 
 
 ## おまけ 便利なVscodeのショートカット
